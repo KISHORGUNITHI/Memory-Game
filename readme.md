@@ -8,7 +8,7 @@ This project focuses on **logic building, state management, and event-driven pro
 
 ## 📸 Game Preview
 
-![Simon Game Preview](./preview.png)
+![Simon Game Preview](preview.png)
 
 ---
 
